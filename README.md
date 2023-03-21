@@ -1,3 +1,3 @@
 # CompanyManagementSystem
 
-This project is a Mini Project.
+This project is a Mini Console Project.
